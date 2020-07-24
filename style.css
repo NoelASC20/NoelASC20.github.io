@@ -1,0 +1,31 @@
+body{
+    background-color: #233859;
+}
+header{
+    font-size: 50px;
+   margin-top: 300px;
+   margin-left: 500px;
+   margin-right: 450px;
+   font-family: 'Open Sans', sans-serif;
+   color: whitesmoke;
+}
+
+.Bottom{
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.Introducer{
+    font-family: 'Red Rose', cursive;
+    color: black;
+}
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.contact{
+    margin-left: 500px;
+    size: 30px;
+    background-color: darkgrey;
+    
+}
