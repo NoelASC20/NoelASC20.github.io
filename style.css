@@ -64,17 +64,17 @@ body{
     background-color: #233859;
 }
 
+
 /* Name */
 header{
     font-size: 50px;
    margin-top: 300px;
-   margin-left: 470px;
-   margin-right: 350px;
+   text-align: center;
    font-family: 'Open Sans', sans-serif;
    color: whitesmoke;
 
    overflow: hidden; 
-  border-right: .15em solid violet;
+  border-right: .15em solid rgba(238, 130, 238, 0);
   white-space: nowrap; 
   letter-spacing: .15em; 
   animation: 
@@ -83,19 +83,20 @@ header{
 }
 @keyframes typing {
     from { width: 20px }
-    to { width: 32% }
+    to { width: 102% }
   }
 
 /* Quote */
 .quote{
     color: darkgray;
-    margin-left: 430px;
+    text-align: center;
     font-family: 'Quicksand', sans-serif;
 }
 
 /* Social media*/
 .Socials{
-    margin-right: 500px;
+    margin-right: 42%;
+    
 }
 
 .Bottom{
@@ -118,13 +119,14 @@ p{
 #myBtn{
     border-radius: 5px;
     border-style: dotted;
-    margin-left: 500px;
+    margin-left: 50%;
 }
 
 .contact{
-    margin-left: 510px;
+    margin-left: 50%;
     size: 30px;
     background-color: darkgrey;
     text-decoration: none;
     color: black;
 }
+
