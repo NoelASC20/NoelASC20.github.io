@@ -106,6 +106,7 @@ header{
     padding: 20px;
     border: black;
     border-style: solid;
+    background-attachment: fixed;
     
 }
 .Introducer{
@@ -116,7 +117,8 @@ header{
 #Track{
   padding: 10px;
   border-radius: 20px;
-  width: 12%; 
+  width: 8%;
+   
    
 }
 p{
