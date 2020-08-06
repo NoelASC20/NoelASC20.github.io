@@ -68,7 +68,7 @@ body{
 /* Name */
 header{
     font-size: 50px;
-   margin-top: 300px;
+   margin-top: 200px;
    text-align: center;
    font-family: 'Open Sans', sans-serif;
    color: whitesmoke;
@@ -100,6 +100,7 @@ header{
 }
 
 .Bottom{
+  margin-top: 100px;
     background-color: white;
     border-radius: 5px;
     padding: 20px;
@@ -110,16 +111,31 @@ header{
 .Introducer{
     font-family: 'Red Rose', cursive;
     color: black;
+    
+}
+#Track{
+  padding: 10px;
+  border-radius: 20px;
+  width: 100px; 
+  height: 200px; 
 }
 p{
     font-family: 'Quicksand', sans-serif;
 }
 
 /* The learn More in About me */
+#more {
+  display: none;
+}
 #myBtn{
     border-radius: 5px;
-    border-style: dotted;
+    border-style: solid;
+    border-color: cadetblue;
     margin-left: 50%;
+    margin-right: 50%;
+    font-family: 'Libre Franklin', sans-serif;
+    width: 150px;
+    
 }
 
 .contact{
