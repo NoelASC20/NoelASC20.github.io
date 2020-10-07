@@ -1,6 +1,6 @@
 /* Top Nav Bar */
 .topnav {
-    background-color: #333;
+    background-color: #1C1D21;
     overflow: hidden;
   }
   .topnav a {
@@ -16,7 +16,7 @@
     color: black;
   }
   .topnav a.active {
-    background-color: rgb(35, 115, 207);
+    background-color: #3C2F74;
     color: white;
   }
   .dropdown {
@@ -61,7 +61,7 @@
 
   /* Background */
 body{
-    background-color: #233859;
+    background-color: #496DDB;
 }
 
 
@@ -88,7 +88,7 @@ header{
 
 /* Quote */
 .quote{
-    color: darkgray;
+    color: #C3C3C3;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
 }
@@ -99,19 +99,22 @@ header{
     
 }
 
-.Bottom{
+.AboutMe{
   margin-top: 100px;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 20px;
     border: black;
     border-style: solid;
     background-attachment: fixed;
+    margin-left: 2%;
+    margin-right: 2%;
     
 }
 .Introducer{
     font-family: 'Red Rose', cursive;
     color: black;
+    font-size: 30px;
     
 }
 #Track{
@@ -123,6 +126,7 @@ header{
 }
 p{
     font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
 }
 
 /* The learn More in About me */
@@ -138,6 +142,22 @@ p{
     font-family: 'Libre Franklin', sans-serif;
     width: 150px;
     
+}
+.Extracuric{
+  margin-top: 80px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    border: black;
+    border-style: solid;
+    background-attachment: fixed;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+li{
+  font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
 }
 
 .contact{
