@@ -61,7 +61,7 @@
 
   /* Background */
 body{
-    background-color: #496DDB;
+    background-color: #4469DA;
 }
 
 
@@ -96,6 +96,7 @@ header{
 /* Social media*/
 .Socials{
     margin-right: 42%;
+    text-decoration: none;
     
 }
 
@@ -120,9 +121,12 @@ header{
 #Track{
   padding: 10px;
   border-radius: 20px;
-  width: 8%;
-   
-   
+  width: 12%;
+}
+#build{
+  padding: 10px;
+  border-radius: 20px;
+  width: 30%;
 }
 p{
     font-family: 'Quicksand', sans-serif;
@@ -158,13 +162,5 @@ p{
 li{
   font-family: 'Quicksand', sans-serif;
     font-size: 20px;
-}
-
-.contact{
-    margin-left: 50%;
-    size: 30px;
-    background-color: darkgrey;
-    text-decoration: none;
-    color: black;
 }
 
